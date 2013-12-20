@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Third/JSON/Experimental
+END
+CFilteringJSONSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Third/JSON/Experimental/CFilteringJSONSerializer.h
+END
+CJSONSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Third/JSON/Experimental/CJSONSerialization.h
+END
+CJSONDeserializer_BlocksExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Third/JSON/Experimental/CJSONDeserializer_BlocksExtensions.h
+END
+CFilteringJSONSerializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Third/JSON/Experimental/CFilteringJSONSerializer.m
+END
+CJSONSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Third/JSON/Experimental/CJSONSerialization.m
+END
+CJSONDeserializer_BlocksExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Third/JSON/Experimental/CJSONDeserializer_BlocksExtensions.m
+END
+CJSONSerializedData.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Third/JSON/Experimental/CJSONSerializedData.h
+END
+CJSONSerializedData.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Third/JSON/Experimental/CJSONSerializedData.m
+END

@@ -1,0 +1,26 @@
+//
+// Prefix header for all source files of the 'XiFangTong' target in the 'XiFangTong' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import <AVFoundation/AVFoundation.h>
+#endif
+#import "BMapKit.h"
+#import "Tool.h"
+#import "Toast+UIView.h"
+#import "Constant.h"
+#import "CommonData.h"
+#import "UIImageView+WebCache.h"
+#import "DBOperation.h"
+
+#define screenHeight      [UIScreen mainScreen].bounds.size.height-20.0
+#define IS_IPHONE_5 ( fabs( ( double )[ [ UIScreen mainScreen ] bounds ].size.height - ( double )568 ) < DBL_EPSILON )

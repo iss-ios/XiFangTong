@@ -1,0 +1,49 @@
+//
+//  GetImageListRequest.m
+//  XiFangTong
+//
+//  Created by issuser on 13-8-26.
+//  Copyright (c) 2013年 YouYan. All rights reserved.
+//
+
+#import "GetImageListRequest.h"
+
+@implementation GetImageListRequest
+-(void)requestImageListWithCategory:(NSString *)category
+{
+    [self requestStart:@"GetImageList" parameter:[NSDictionary dictionaryWithObject:category forKey:@"category"]];
+}
+- (void)actionRequestSuccessful:(ASIHTTPRequest *)request
+{
+    
+    if (request) {
+        NSString *data = [request responseString];
+        DDXMLDocument *doc = [[DDXMLDocument alloc] initWithXMLString:data options:0 error:nil];
+        DDXMLElement* element = [doc rootElement];
+        DDXMLElement *item = [element.children objectAtIndex:1];
+        DDXMLElement *itemE = [item elementForName:@"NewDataSet"];
+        if (itemE == nil) {
+            if (_delegate) {
+                [_delegate getImageListRequestSuccess:@""];
+            }
+        }
+        for (DDXMLElement *itemElement in itemE.children) {
+            //Imgage_Url
+            if (_delegate) {
+                [_delegate getImageListRequestSuccess:[itemElement elementForName:@"Imgage_Url"].stringValue];
+            }
+        
+        }
+    }
+}
+
+//超时
+-(void)actionRequestFailed:(ASIHTTPRequest *)request
+{
+    if (_delegate) {
+        [_delegate getImageListRequestFailed:@"请检查网络是否可用后重试！"];
+    }
+}
+
+
+@end

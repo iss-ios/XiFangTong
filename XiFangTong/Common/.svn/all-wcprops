@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common
+END
+JoinViewDefault.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WXHOUSE/!svn/ver/182/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/JoinViewDefault.xib
+END
+JoinView.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/JoinView.h
+END
+PickerItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/PickerItem.h
+END
+CheckButtonCombination.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/WXHOUSE/!svn/ver/185/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/CheckButtonCombination.h
+END
+AKSegmentedControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/AKSegmentedControl.m
+END
+CustomPickerView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/CustomPickerView.xib
+END
+JoinView.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/JoinView.m
+END
+PickerItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/PickerItem.m
+END
+CheckButtonCombination.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/WXHOUSE/!svn/ver/185/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/CheckButtonCombination.m
+END
+CustomPickerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/CustomPickerView.h
+END
+TextFieldInputCheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/WXHOUSE/!svn/ver/155/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/TextFieldInputCheck.h
+END
+BasedViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/BasedViewController.xib
+END
+CustomPickerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/WXHOUSE/!svn/ver/185/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/CustomPickerView.m
+END
+CheckButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/WXHOUSE/!svn/ver/185/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/CheckButton.h
+END
+ShowPickerButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/WXHOUSE/!svn/ver/198/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/ShowPickerButton.h
+END
+TextFieldInputCheck.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/WXHOUSE/!svn/ver/264/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/TextFieldInputCheck.m
+END
+BasedViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/WXHOUSE/!svn/ver/185/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/BasedViewController.h
+END
+Tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/WXHOUSE/!svn/ver/194/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/Tool.h
+END
+CheckButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/CheckButton.m
+END
+ShowPickerButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/WXHOUSE/!svn/ver/239/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/ShowPickerButton.m
+END
+BasedViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/BasedViewController.m
+END
+Tool.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/WXHOUSE/!svn/ver/194/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/Tool.m
+END
+CustomTextField.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/WXHOUSE/!svn/ver/155/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/CustomTextField.h
+END
+JoinViewSpecial.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WXHOUSE/!svn/ver/182/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/JoinViewSpecial.xib
+END
+CustomTextField.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/CustomTextField.m
+END
+AKSegmentedControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Common/AKSegmentedControl.h
+END

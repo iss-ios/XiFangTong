@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request
+END
+HouseType.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/HouseType.m
+END
+HouseTypeRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/HouseTypeRequest.h
+END
+HouseTypeRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WXHOUSE/!svn/ver/199/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/HouseTypeRequest.m
+END
+GuessLikeRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WXHOUSE/!svn/ver/155/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/GuessLikeRequest.h
+END
+HouseInfoRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/HouseInfoRequest.h
+END
+HouseFeatureRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/HouseFeatureRequest.h
+END
+SubmitGroupBuyRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/WXHOUSE/!svn/ver/155/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/SubmitGroupBuyRequest.h
+END
+GuessLikeRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WXHOUSE/!svn/ver/182/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/GuessLikeRequest.m
+END
+MapSearchRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WXHOUSE/!svn/ver/274/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/MapSearchRequest.h
+END
+HouseInfoRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WXHOUSE/!svn/ver/241/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/HouseInfoRequest.m
+END
+HouseFeatureRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/WXHOUSE/!svn/ver/199/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/HouseFeatureRequest.m
+END
+SubmitGroupBuyRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/WXHOUSE/!svn/ver/233/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/SubmitGroupBuyRequest.m
+END
+ActivityInfoRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/WXHOUSE/!svn/ver/155/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/ActivityInfoRequest.h
+END
+MapSearchRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/WXHOUSE/!svn/ver/274/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/MapSearchRequest.m
+END
+SearchHouseRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/WXHOUSE/!svn/ver/264/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/SearchHouseRequest.h
+END
+CommonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/WXHOUSE/!svn/ver/239/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/CommonData.h
+END
+District.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/District.h
+END
+GroupBuyRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/WXHOUSE/!svn/ver/155/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/GroupBuyRequest.h
+END
+ActivityInfoRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/WXHOUSE/!svn/ver/199/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/ActivityInfoRequest.m
+END
+SearchHouseRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/WXHOUSE/!svn/ver/264/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/SearchHouseRequest.m
+END
+CommonData.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/WXHOUSE/!svn/ver/239/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/CommonData.m
+END
+GetImageListRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/GetImageListRequest.h
+END
+SubmitActivityRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/WXHOUSE/!svn/ver/155/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/SubmitActivityRequest.h
+END
+District.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/District.m
+END
+GroupBuyRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/WXHOUSE/!svn/ver/199/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/GroupBuyRequest.m
+END
+GetImageListRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/WXHOUSE/!svn/ver/264/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/GetImageListRequest.m
+END
+SubmitActivityRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/WXHOUSE/!svn/ver/233/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/SubmitActivityRequest.m
+END
+HouseDistrictRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/HouseDistrictRequest.h
+END
+ActivityRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/WXHOUSE/!svn/ver/155/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/ActivityRequest.h
+END
+HouseDistrictRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/WXHOUSE/!svn/ver/205/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/HouseDistrictRequest.m
+END
+ActivityRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/WXHOUSE/!svn/ver/199/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/ActivityRequest.m
+END
+BaseWebRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/BaseWebRequest.h
+END
+HouseType.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/WXHOUSE/!svn/ver/190/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/HouseType.h
+END
+BaseWebRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/WXHOUSE/!svn/ver/199/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/Request/BaseWebRequest.m
+END

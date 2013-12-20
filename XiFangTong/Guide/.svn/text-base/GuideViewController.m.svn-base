@@ -1,0 +1,107 @@
+//
+//  GuideViewController.m
+//  XiFangTong
+//
+//  Created by issuser on 13-8-5.
+//  Copyright (c) 2013年 YouYan. All rights reserved.
+//
+
+#import "GuideViewController.h"
+
+@interface GuideViewController ()
+
+@end
+
+@implementation GuideViewController
+#pragma mark -
+#pragma mark view
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
+{
+    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+    if (self) {
+        // Custom initialization
+    }
+    return self;
+}
+
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+    imageRequest = [[GetImageListRequest alloc] init];
+    [imageRequest setDelegate:self];
+    [imageRequest requestImageListWithCategory:GuideURL];
+    [[[[UIApplication sharedApplication] delegate] window] makeToastActivity];
+
+    guideWebView.scalesPageToFit = NO;
+    guideWebView.scrollView.bounces = YES;
+    guideWebView.frame = CGRectMake(10, 54, 300, screenHeight-54);
+    
+}
+-(void)viewWillAppear:(BOOL)animated
+{
+    [super viewWillAppear:YES];
+    [imageRequest setDelegate:self];
+
+}
+//-(void)viewDidDisappear:(BOOL)animated
+//{
+//    [super viewDidDisappear:YES];
+//    [imageRequest setDelegate:nil];
+//    imageRequest = nil;
+//    guideWebView = nil;
+//}
+- (void)didReceiveMemoryWarning
+{
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+#pragma mark -
+#pragma mark request
+-(void)getImageListRequestSuccess:(NSString *)imagePath
+{
+    if (imagePath.length != 0) {
+        [[[[UIApplication sharedApplication] delegate] window] makeToastActivity];
+        NSString *imgPath = [NSString stringWithFormat:@"%@%@",ImagePathURL,imagePath];
+        NSURLRequest *request =[NSURLRequest requestWithURL:[NSURL URLWithString:imgPath]];
+        [guideWebView loadRequest:request];
+    }
+    else{
+       
+        NSString *filePath = [[NSBundle mainBundle] pathForResource:@"guide_image" ofType:@"png"];
+        NSData *data = [NSData dataWithContentsOfFile:filePath];
+        
+        [guideWebView loadData:data MIMEType:@"image/png" textEncodingName:nil baseURL:nil];
+        
+//        NSURL *url = [NSURL URLWithString:filePath relativeToURL:[NSURL fileURLWithPath:[filePath stringByDeletingLastPathComponent] isDirectory:YES]];
+//        
+//        NSURLRequest *request =[NSURLRequest requestWithURL:url];
+//
+//        [guideWebView loadRequest:request];
+////        NSString *htmlString = [NSString stringWithContentsOfFile:filePath encoding:NSUTF8StringEncoding error:nil];
+////        
+////       [guideWebView loadHTMLString:htmlString baseURL:[NSURL URLWithString:filePath]];
+//
+    }
+}
+-(void)getImageListRequestFailed:(NSString *)message
+{
+    [[[[UIApplication sharedApplication] delegate] window] makeToast:@"数据加载失败" duration:2.0 position:@"center"];
+}
+#pragma mark -
+#pragma mark web view delegate
+-(void)webViewDidFinishLoad:(UIWebView *)webView
+{
+
+    [[[[UIApplication sharedApplication] delegate] window] hideToastActivity];
+}
+-(void)webView:(UIWebView *)webView didFailLoadWithError:(NSError *)error
+{
+    [[[[UIApplication sharedApplication] delegate] window] makeToast:@"图片加载失败" duration:2.0 position:@"center"];
+}
+#pragma mark -
+#pragma mark button
+-(void)onClickRight:(id)sender
+{
+    [[CommonData Instance] phoneCall];
+}
+@end

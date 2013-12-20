@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes
+END
+QRBitBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QRBitBuffer.h
+END
+QRPolynomial.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QRPolynomial.m
+END
+QRMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QRMath.h
+END
+QRMatrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QRMatrix.m
+END
+QRBitBuffer.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QRBitBuffer.m
+END
+QRMath.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QRMath.m
+END
+QRRSBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QRRSBlock.h
+END
+QRPolynomial.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QRPolynomial.h
+END
+QREncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QREncoder.m
+END
+QRMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QRMatrix.h
+END
+QRRSBlock.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/WXHOUSE/!svn/ver/149/HOUSE_IOS/WXHouse/XiFangTong/XiFangTong/QREncoder/Encoder/Classes/QRRSBlock.m
+END

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Feature</key>
+	<dict>
+		<key>Values</key>
+		<array/>
+		<key>State</key>
+		<string>特色</string>
+	</dict>
+	<key>HouseType</key>
+	<dict>
+		<key>State</key>
+		<string>类型</string>
+		<key>Values</key>
+		<array>
+			<string>不限</string>
+			<string>住宅</string>
+			<string>经济适用房</string>
+			<string>别墅</string>
+			<string>写字楼</string>
+			<string>商铺</string>
+			<string>两限房</string>
+		</array>
+	</dict>
+	<key>Price</key>
+	<dict>
+		<key>State</key>
+		<string>价格</string>
+		<key>Values</key>
+		<array>
+			<string>不限</string>
+			<string>4千以下</string>
+			<string>4千-5千</string>
+			<string>5千-6千</string>
+			<string>6千-7千</string>
+			<string>7千-8千</string>
+			<string>8千-9千</string>
+			<string>9千-1万</string>
+			<string>1万-1.2万</string>
+			<string>1.2万-1.5万</string>
+			<string>1.5万以上</string>
+		</array>
+	</dict>
+	<key>Region</key>
+	<dict>
+		<key>State</key>
+		<string>区域</string>
+		<key>Values</key>
+		<array>
+			<string>不限</string>
+			<string>新区</string>
+			<string>滨湖区</string>
+			<string>惠山区</string>
+			<string>江阴市</string>
+			<string>宜兴市</string>
+			<string>崇安区</string>
+			<string>南长区</string>
+			<string>北塘区</string>
+			<string>锡山区</string>
+			<string>其他</string>
+		</array>
+	</dict>
+</dict>
+</plist>
